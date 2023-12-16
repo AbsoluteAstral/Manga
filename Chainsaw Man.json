@@ -12,6 +12,14 @@
       "groups": {
         "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvY2hhaW5zYXctbWFuLjIxODkwL2Mx/"
       }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1702763034",
+      "groups": {
+        "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvY2hhaW5zYXctbWFuLjIxODkwL2My/"
+      }
     }
   }
 }
